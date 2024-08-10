@@ -6,7 +6,7 @@
 
 📧 Contact **ntainguyen.it@gmail.com**
   
-## 🌐 Connect with me:
+## 🌐 Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/ntainguyenit/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ntainguyenit/" height="30" width="40" />
@@ -22,7 +22,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntainguyenit)](https://github.com/ntainguyenit/github-readme-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ntainguyenit&" alt="ntainguyenit" /></p>
 
-# Programming languages ​​used:
+# Programming languages ​​used
 <p align="left"> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
@@ -38,7 +38,7 @@
   </a> 
 </p>
 
-# Game Engine:
+# Game Engine
 <p align="left"> 
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
@@ -48,7 +48,7 @@
   </a> 
 </p>
 
-# Other:
+# Other
 <p align="left"> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
@@ -61,7 +61,7 @@
   </a> 
 </p>
 
-# Donate:
+# Donate
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ntainguyenit) 
 
 
