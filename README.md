@@ -2,6 +2,8 @@
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ntainguyenit&label=Profile%20views&color=0e75b6&style=flat" alt="ntainguyenit" /></p>
 
+_I hope your having a good day !_
+
 🎓 I’m currently learning **Hue University of Sciences** 
 
 📧 Contact **ntainguyen.it@gmail.com**
