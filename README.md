@@ -9,7 +9,7 @@
 
 _I hope your having a good day !_
 
-# <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
+# About Me
 
 • My full name is **Nguyen Ngoc Thanh Tai**
 
