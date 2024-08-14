@@ -11,13 +11,13 @@ _I hope your having a good day !_
 
 # <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
 
-My full name is **Nguyen Ngoc Thanh Tai**
+• My full name is **Nguyen Ngoc Thanh Tai**
 
 🎓 I’m currently 1rd year student at **Hue University of Sciences** 
 
-I'm living now in **Hue City**, **Viet Nam**
+• I'm living now in **Hue City**, **Viet Nam**
   
-I'm a newbie in coding, know **C++** and **C#** language. Now I'm focus on learning **Game Developer**.
+• I'm a newbie in coding, know **C++** and **C#** language. Now I'm focus on learning **Game Developer**.
 
 📧 Contact **ntainguyen.it@gmail.com**
   
