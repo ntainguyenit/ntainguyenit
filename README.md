@@ -1,10 +1,23 @@
-# Hello, I'm Tai Nguyen
+# <h1 align="left"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Hello, I'm Tai Nguyen (@ntainguyenit)</b></h1>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I+hope+your+having+a+good+day+!;++;Hello,+I'm+Tai+Nguyen;@ntainguyenit;Hue+University+of+Sciences;Game+Developer;Unity+Developer"></a>
+</p>
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ntainguyenit&label=Profile%20views&color=0e75b6&style=flat" alt="ntainguyenit" /></p>
 
 _I hope your having a good day !_
 
-🎓 I’m currently learning **Hue University of Sciences** 
+# <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
+
+My full name is **Nguyen Ngoc Thanh Tai**
+
+🎓 I’m currently 1rd year student at **Hue University of Sciences** 
+
+I'm living now in **Hue City**, **Viet Nam**
+  
+I'm a newbie in coding, know **C++** and **C#** language. Now I'm focus on learning **Game Developer**.
 
 📧 Contact **ntainguyen.it@gmail.com**
   
@@ -66,10 +79,9 @@ _I hope your having a good day !_
 # Donate
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ntainguyenit) 
 
+<p align="left">
+  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thank%20You%20For%20Watching;Cảm%20ơn%20vì%20đã%20ghé%20thăm&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+</p>
 
-
-
-
-
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
