@@ -7,7 +7,7 @@
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ntainguyenit&label=Profile%20views&color=0e75b6&style=flat" alt="ntainguyenit" /></p>
 
-_I hope your having a good day !_
+_I hope your having a good day!_
 
 # About Me
 
@@ -29,8 +29,8 @@ _I hope your having a good day !_
 <a href="https://www.facebook.com/ntainguyenit" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ntainguyenit" height="30" width="40" />
 </a>
-<a href="https://www.instagram.com/iam_tainguyen/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/iam_tainguyen/" height="30" width="40" />
+<a href="https://www.instagram.com/ntainguyenit/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ntainguyenit/" height="30" width="40" />
 </a>
 </p>
 
