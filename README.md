@@ -17,8 +17,9 @@
 • I'm a newbie in coding, know **C++** and **C#** language. Now I'm focus on learning **Game Developer**.
 
 📧 Contact **ntainguyen.it@gmail.com**
+🌐 Website
   
-## 🌐 Connect with me
+## Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/ntainguyenit/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ntainguyenit/" height="30" width="40" />
