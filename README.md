@@ -4,7 +4,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I+hope+your+having+a+good+day+!;++;Hello,+I'm+Tai+Nguyen;@ntainguyenit;Hue+University+of+Sciences;Game+Developer;Unity+Developer"></a>
 </p>
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ntainguyenit&label=Profile%20views&color=0e75b6&style=flat" alt="ntainguyenit" /></p>
 
 # About Me
@@ -72,7 +71,7 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thank%20You%20For%20Watching;Cảm%20ơn%20vì%20đã%20ghé%20thăm&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thank%20You%20For%20Watching%20!;Cảm%20ơn%20vì%20đã%20ghé%20thăm%20!&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
