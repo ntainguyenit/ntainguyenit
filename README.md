@@ -7,8 +7,6 @@
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ntainguyenit&label=Profile%20views&color=0e75b6&style=flat" alt="ntainguyenit" /></p>
 
-_I hope your having a good day!_
-
 # About Me
 
 • My full name is **Nguyen Ngoc Thanh Tai**
@@ -58,9 +56,6 @@ _I hope your having a good day!_
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
   </a> 
-  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> 
-  </a> 
 </p>
 
 # Other
@@ -75,9 +70,6 @@ _I hope your having a good day!_
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
   </a> 
 </p>
-
-# Donate
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ntainguyenit) 
 
 <p align="left">
   <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thank%20You%20For%20Watching;Cảm%20ơn%20vì%20đã%20ghé%20thăm&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
