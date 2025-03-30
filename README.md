@@ -18,7 +18,7 @@
 
 📧 **Contact** **ntainguyen.it@gmail.com**
 
-🌐 **Website Portfolio**
+🌐 **Website**
   
 ## Connect with me
 <p align="left">
