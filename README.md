@@ -25,12 +25,6 @@
 <a href="https://www.linkedin.com/in/ntainguyenit/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ntainguyenit/" height="30" width="40" />
 </a>
-<a href="https://www.facebook.com/ntainguyenit" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ntainguyenit" height="30" width="40" />
-</a>
-<a href="https://www.instagram.com/ntainguyenit/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ntainguyenit/" height="30" width="40" />
-</a>
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntainguyenit)](https://github.com/ntainguyenit/github-readme-stats)
