@@ -27,9 +27,6 @@
 </a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntainguyenit)](https://github.com/ntainguyenit/github-readme-stats)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ntainguyenit&" alt="ntainguyenit" /></p>
-
 # Programming Languages ​
 <p align="left"> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
