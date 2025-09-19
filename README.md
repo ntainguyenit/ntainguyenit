@@ -20,14 +20,14 @@
 
 🌐 **Website** Updating...
   
-# Connect with me
+## Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/ntainguyenit/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ntainguyenit/" height="30" width="40" />
 </a>
 </p>
 
-# Programming Languages ​
+## Programming Languages ​
 <p align="left"> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
@@ -45,10 +45,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=php,dart)](https://skillicons.dev)
 
-# Game Development Tools
+## Game Development Tools
 [![My Skills](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
 
-# Databases
+## Databases
 <p align="left"> 
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
@@ -60,13 +60,13 @@
 
 [![My Skills](https://skillicons.dev/icons?i=supabase,firebase)](https://skillicons.dev)
 
-# Graphics 
+## Graphics 
 [![My Skills](https://skillicons.dev/icons?i=blender,figma)](https://skillicons.dev)
   
-# Version Control
+## Version Control
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
-# IDE & Tools
+## IDE & Tools
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,pycharm)](https://skillicons.dev)
 
 # Other
