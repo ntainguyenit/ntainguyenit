@@ -72,6 +72,7 @@
 # Other
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,notion)](https://skillicons.dev)
 
+
 <p align="left">
   <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thank%20You%20For%20Watching%20!;Cảm%20ơn%20vì%20đã%20ghé%20thăm%20!&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
