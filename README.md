@@ -25,9 +25,6 @@
   <a href="https://www.linkedin.com/in/ntainguyenit/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-    <a href="mailto:ntainguyen.it@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
 </div>
 
 ## Programming Languages ​
@@ -75,11 +72,6 @@
 # Other
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,notion)](https://skillicons.dev)
 
-
 <p align="left">
   <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thank%20You%20For%20Watching%20!;Cảm%20ơn%20vì%20đã%20ghé%20thăm%20!&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
-
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ntainguyenit&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
