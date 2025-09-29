@@ -18,7 +18,7 @@
 
 📧 **Contact** **ntainguyen.it@gmail.com**
 
-🌐 **Website & Portfolio** [ntainguyenit.netlify.app](https://ntainguyenit.netlify.app/)
+🌐 **Website & Portfolio** **[ntainguyenit.netlify.app](https://ntainguyenit.netlify.app/)**
   
 ## Connect with me
 <div align="left"> 
