@@ -72,7 +72,8 @@
 # Other
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,notion)](https://skillicons.dev)
 
-# Used Languages
+---
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntainguyenit&layout=compact)
 
 <p align="left">
