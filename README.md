@@ -16,7 +16,7 @@
   
 • I'm a newbie in coding, know **C++** and **C#** language. Now I'm focus on learning **Game Developer**.
 
-📧 **Contact** **ntainguyen.it@gmail.com**
+📩 **Contact** **ntainguyen.it@gmail.com**
 
 🌐 **Website & Portfolio** **[ntainguyenit.netlify.app](https://ntainguyenit.netlify.app/)**
   
