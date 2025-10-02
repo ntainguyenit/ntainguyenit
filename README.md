@@ -73,6 +73,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,notion)](https://skillicons.dev)
 
 ---
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntainguyenit&layout=compact)
 
 ---
