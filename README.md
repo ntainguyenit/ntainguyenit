@@ -16,15 +16,9 @@
   
 • I'm a newbie in coding, know **C++** and **C#** language. Now I'm focus on learning **Game Developer**.
 
----
+📩 **Contact** **ntainguyen.it@gmail.com**
 
-📩 **Contact**
-
-**ntainguyen.it@gmail.com**
-
-🌐 **Website & Portfolio**
-
-**[ntainguyenit.netlify.app](https://ntainguyenit.netlify.app/)**
+🌐 **Website** **[ntainguyenit.netlify.app](https://ntainguyenit.netlify.app/)**
 
 ---
 
@@ -79,8 +73,6 @@
 
 # Other
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,notion)](https://skillicons.dev)
-
----
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntainguyenit&layout=compact)
 
