@@ -12,19 +12,9 @@
 
 🎓 I’m currently 1rd year student at **Hue University of Sciences** 
 
-• I'm living now in **Hue City**, **Viet Nam**
-  
 • I'm a newbie in coding, know **C++** and **C#** language. Now I'm focus on learning **Game Developer**.
 
-📩 **Contact** **ntainguyen.it@gmail.com**
-
-🌐 **Website** **[ntainguyenit.netlify.app](https://ntainguyenit.netlify.app/)**
-
 ---
-
-## Connect with me
-[![Follow on LinkedIn](https://img.shields.io/badge/Follow_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ntainguyenit/)
-
 ## Programming Languages ​
 <p align="left"> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
