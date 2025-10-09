@@ -10,12 +10,12 @@
 
 • My full name is **Nguyen Ngoc Thanh Tai**
 
-🎓 I’m currently 1rd year student at **Hue University of Sciences** 
+🎓 I am a third-year student at the **Hue University of Sciences**
 
-• I'm a newbie in coding, know **C++** and **C#** language. Now I'm focus on learning **Game Developer**.
+• I have experience with **Unity** and **C#**, and I aspire to become a **Game Developer**
 
 ---
-## Programming Languages ​
+## Languages ​
 <p align="left"> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
@@ -33,7 +33,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=php,dart)](https://skillicons.dev)
 
-## Game Development Tools
+## Game Tools
 [![My Skills](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
 
 ## Databases
@@ -54,7 +54,7 @@
 ## Version Control
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
-## IDE & Tools
+## IDE
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,pycharm)](https://skillicons.dev)
 
 # Other
