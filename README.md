@@ -12,7 +12,7 @@
 
 🎓 I am a third-year student at the **Hue University of Sciences**
 
-• I have experience with **Unity** and **C#**, and I aspire to become a **Game Developer**
+• I have experience with **Unity** and **C#**, and I aspire to become a **Unity Developer**
 
 ## Languages ​
 <p align="left"> 
