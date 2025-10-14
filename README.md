@@ -14,26 +14,8 @@
 
 • I have experience with **Unity** and **C#**, and I aspire to become a **Unity Developer**
 
-## Languages ​
-<p align="left"> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-</p>
-
-[![My Skills](https://skillicons.dev/icons?i=php,dart)](https://skillicons.dev)
-
-## Game Tools
-[![My Skills](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
+## Languages & Game Tools
+[![My Skills](https://skillicons.dev/icons?i=cs,unity)](https://skillicons.dev)
 
 ## Databases
 <p align="left"> 
@@ -52,12 +34,6 @@
   
 ## Version Control
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
-
-## IDE
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,pycharm)](https://skillicons.dev)
-
-# Other
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,notion)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntainguyenit&layout=compact)
 
