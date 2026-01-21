@@ -14,27 +14,6 @@
 
 • I have experience with **Unity** and **C#**, and I aspire to become a **Unity Developer**
 
-## Languages & Game Tools
-[![My Skills](https://skillicons.dev/icons?i=cs,unity)](https://skillicons.dev)
-
-## Databases
-<p align="left"> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a>
-</p>
-
-[![My Skills](https://skillicons.dev/icons?i=supabase,firebase)](https://skillicons.dev)
-
-## Graphics 
-[![My Skills](https://skillicons.dev/icons?i=blender,figma)](https://skillicons.dev)
-  
-## Version Control
-[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
-
 ---
 
 <p align="left">
