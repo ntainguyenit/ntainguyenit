@@ -2,9 +2,9 @@
 
 ## About Me
 
-• My full name is **Nguyễn Ngọc Thành Tài**
+- My full name is **Nguyễn Ngọc Thành Tài**
 
-🎓 I am an **Information Technology** student at the **Hue University of Sciences**
+- I am an **Information Technology** student at the **Hue University of Sciences**
 
 ---
 
