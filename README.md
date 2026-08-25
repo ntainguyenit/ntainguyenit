@@ -4,4 +4,6 @@
 
 My full name is **Nguyễn Ngọc Thành Tài**
 
-I am an **Information Technology** student at the **Hue University of Sciences**
+Bachelor of **Information Technology** — **Hue University of Sciences**
+
+I'm interested in **software development* and *technology**.
